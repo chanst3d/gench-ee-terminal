@@ -1,7 +1,5 @@
 # gench-ee-terminal
-
-#首先做一个炫酷的启动命令行
-#然后进行初始化操作（数据库）
-#然后进行系统鉴权（用户名和密码）
-#然后显示菜单
-
+Gench-ee-terminal is a sophisticated terminal application developed by the Employment and Entrepreneurship Service Association at Shanghai Gench University. This application represents a cutting-edge solution for professional terminal operations, integrating advanced technologies to enhance data management and processing capabilities.
+## Technical Core
+At the heart of Gench-ee-terminal lies a robust architecture powered by Python, which serves as the control environment. This environment interfaces seamlessly with a MySQL database, facilitating efficient data transactions and storage. The application employs a three-tiered controller structure, which enables the stacking and recording of data with unparalleled precision and reliability.
+Furthermore, Gench-ee-terminal harnesses the power of large-scale model technologies and generative artificial intelligence. These technologies not only augment the application's data storage capabilities but also introduce innovative methods for data analysis and prediction. By leveraging these advanced AI techniques, Gench-ee-terminal provides users with a comprehensive and intelligent terminal experience, setting a new standard in professional terminal applications.
